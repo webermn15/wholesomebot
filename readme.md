@@ -1,1 +1,1 @@
-A wholesome discord bot
+a wholesome discord bot

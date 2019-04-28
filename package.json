@@ -1,0 +1,28 @@
+{
+  "name": "wholesomebot",
+  "version": "1.0.0",
+  "description": "a wholesome discord bot",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webermn15/wholesomebot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Michael Weber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webermn15/wholesomebot/issues"
+  },
+  "homepage": "https://github.com/webermn15/wholesomebot#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "dotenv": "^7.0.0"
+  }
+}
